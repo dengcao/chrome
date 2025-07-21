@@ -5,6 +5,7 @@
 ## 项目介绍
 本项目为Google Chrome谷歌浏览器的全部版本集合，方便大家下载旧版本使用。
 
+
 ## 安装说明
 
 1、Google Chrome 浏览器新版本已经不再支持Win7（包含Win7/8.1/XP/Vista等），v109.0.5414.120是支持Win7的最终正式版，v49.0.2623.75是支持winXP/Vista的稳定正式版。
@@ -13,3 +14,9 @@
 
 3、如果你之前安装过Google Chrome，不论什么版本，一定要先卸载旧版本再安装。
 
+
+## 项目地址
+
+国外Github：[https://github.com/dengcao/chrome](https://github.com/dengcao/chrome)
+
+国内Gitee：[https://gitee.com/dengzhenhua/chrome](https://gitee.com/dengzhenhua/chrome)
